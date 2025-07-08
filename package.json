@@ -2,7 +2,8 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://soni-sonakshi.github.io/realtime-editor",
+  "homepage": "https://Soni-sonakshi.github.io/real-editor",
+
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
